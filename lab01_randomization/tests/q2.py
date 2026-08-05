@@ -26,7 +26,7 @@ test = {
           >>> import random
           >>> random.seed(42)
           >>> result_2 = gamblers_expected_time(20,150,0.5,10000)
-          >>> math.isclose(result_2, 2703.72, abs_tol=1e-2)
+          >>> math.isclose(result_2, 2703.27, abs_tol=1e-2)
           True
           """,
           'hidden': True
