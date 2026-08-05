@@ -30,7 +30,7 @@ test = {
           True
           """,
           'hidden': True
-        }
+        },
          {
           #testcase3
           'code': r"""
